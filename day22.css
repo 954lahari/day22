@@ -1,0 +1,22 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+input, button {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    background-color: #0074D9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
